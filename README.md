@@ -1,6 +1,6 @@
 # 💫 About Me
 
-CS student passionate about understanding how technology works and building impactful solutions. I enjoy developing web applications, designing APIs, and experimenting with intelligent systems, always focused on turning ideas into real, scalable products.
+Computer Science student passionate about understanding how technology works and building impactful solutions. I enjoy developing web applications, designing APIs, and experimenting with intelligent systems, always focused on turning ideas into real, scalable products.
 
 🚀 **Key Areas of Interest:**
 
