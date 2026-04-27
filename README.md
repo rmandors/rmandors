@@ -20,9 +20,9 @@ Driven by curiosity and continuous learning, I’m constantly exploring new tool
 <p align="center"> 
   <img src="https://github-readme-stats.shion.dev/api?username=rmandors&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;   
-  <img src="https://streak-stats.demolab.com/?user=rmandors&theme=dark&hide_border=false" />
-  <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rmandors&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=rmandors&theme=dark&hide_border=false" />
 </p>
 
 
