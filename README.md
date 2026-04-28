@@ -27,7 +27,7 @@ Driven by curiosity and continuous learning, I’m constantly exploring new tool
 
 
 # 🏆 Top Projects
-Look at my pinned repositories! 😉
+Take a look at my pinned repositories! 😉
 
 # 🌐 Contact
 📧 **Email:** raymond_porti@hotmail.com  
